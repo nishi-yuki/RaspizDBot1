@@ -1,0 +1,4 @@
+.env
+raspizdbot
+*.exe
+.vscode/
